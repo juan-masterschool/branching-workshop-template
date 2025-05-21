@@ -1,0 +1,1 @@
+def bytes_to_kilobytes(val: int) -> int: return val // 1024

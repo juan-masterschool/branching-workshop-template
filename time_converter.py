@@ -1,0 +1,1 @@
+def seconds_to_minutes(val: int) -> int: return val // 60

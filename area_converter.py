@@ -1,0 +1,1 @@
+def square_meters_to_square_kilometers(val: int | float): return (val**2) * .001
